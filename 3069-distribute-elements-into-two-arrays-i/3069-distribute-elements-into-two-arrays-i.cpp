@@ -13,14 +13,8 @@ public:
                 b.push_back(nums[i]);
             }
         }
-        vector<int>temp;
-        int n=a.size();
-        int m=b.size();
-        for(int i=0;i<n;i++){
-           temp.push_back(a[i]);
-        }for(int i=0;i<m;i++){
-          temp.push_back(b[i]);
-        }
-        return temp;
+         for (int x : b)
+            a.push_back(x);
+        return a;
     }
 };
