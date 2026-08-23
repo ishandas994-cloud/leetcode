@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ishandas994-cloud/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ishandas994-cloud/leetcode/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/ishandas994-cloud/leetcode/tree/master/0507-perfect-number) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishandas994-cloud/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ishandas994-cloud/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
