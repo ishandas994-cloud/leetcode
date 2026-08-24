@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ishandas994-cloud/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ishandas994-cloud/leetcode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ishandas994-cloud/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishandas994-cloud/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ishandas994-cloud/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishandas994-cloud/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ishandas994-cloud/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ishandas994-cloud/leetcode/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/ishandas994-cloud/leetcode/tree/master/0507-perfect-number) |
+| [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishandas994-cloud/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ishandas994-cloud/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
@@ -103,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ishandas994-cloud/leetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
