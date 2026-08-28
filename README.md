@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ishandas994-cloud/leetcode/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/ishandas994-cloud/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ishandas994-cloud/leetcode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ishandas994-cloud/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ishandas994-cloud/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ishandas994-cloud/leetcode/tree/master/0136-single-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishandas994-cloud/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
