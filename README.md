@@ -181,8 +181,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ishandas994-cloud/leetcode/tree/master/0402-remove-k-digits) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ishandas994-cloud/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ishandas994-cloud/leetcode/tree/master/0402-remove-k-digits) |
+## Tree
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ishandas994-cloud/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ishandas994-cloud/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
