@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ishandas994-cloud/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0137-single-number-ii) |
 | [0455-assign-cookies](https://github.com/ishandas994-cloud/leetcode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [0860-lemonade-change](https://github.com/ishandas994-cloud/leetcode/tree/master/0860-lemonade-change) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ishandas994-cloud/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/ishandas994-cloud/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ishandas994-cloud/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ishandas994-cloud/leetcode/tree/master/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/ishandas994-cloud/leetcode/tree/master/0507-perfect-number) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ishandas994-cloud/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/ishandas994-cloud/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
 ## Two Pointers
@@ -138,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
@@ -220,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ishandas994-cloud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
