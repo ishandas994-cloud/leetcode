@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ishandas994-cloud/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/ishandas994-cloud/leetcode/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/ishandas994-cloud/leetcode/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/ishandas994-cloud/leetcode/tree/master/0767-reorganize-string) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ishandas994-cloud/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
