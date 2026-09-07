@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ishandas994-cloud/leetcode/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/ishandas994-cloud/leetcode/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/ishandas994-cloud/leetcode/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishandas994-cloud/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ishandas994-cloud/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ishandas994-cloud/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
