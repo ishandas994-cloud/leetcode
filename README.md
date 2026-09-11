@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ishandas994-cloud/leetcode/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/ishandas994-cloud/leetcode/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ishandas994-cloud/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishandas994-cloud/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ishandas994-cloud/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ishandas994-cloud/leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ishandas994-cloud/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ishandas994-cloud/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ishandas994-cloud/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ishandas994-cloud/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ishandas994-cloud/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/ishandas994-cloud/leetcode/tree/master/0767-reorganize-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ishandas994-cloud/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ishandas994-cloud/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Newton's Method
 |  |
