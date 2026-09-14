@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ishandas994-cloud/leetcode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/ishandas994-cloud/leetcode/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/ishandas994-cloud/leetcode/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ishandas994-cloud/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/ishandas994-cloud/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ishandas994-cloud/leetcode/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ishandas994-cloud/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 ## Matrix
 |  |
