@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ishandas994-cloud/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ishandas994-cloud/leetcode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/ishandas994-cloud/leetcode/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/ishandas994-cloud/leetcode/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/ishandas994-cloud/leetcode/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ishandas994-cloud/leetcode/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/ishandas994-cloud/leetcode/tree/master/0767-reorganize-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ishandas994-cloud/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ishandas994-cloud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ishandas994-cloud/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/ishandas994-cloud/leetcode/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ishandas994-cloud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/ishandas994-cloud/leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ishandas994-cloud/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ishandas994-cloud/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
