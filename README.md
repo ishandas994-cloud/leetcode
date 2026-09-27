@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ishandas994-cloud/leetcode/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ishandas994-cloud/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishandas994-cloud/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishandas994-cloud/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ishandas994-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ishandas994-cloud/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/ishandas994-cloud/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1096-brace-expansion-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ishandas994-cloud/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ishandas994-cloud/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
